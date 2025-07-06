@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="A_digital_graphic_design_image_features_the_title_.png" alt="Web Traffic Analysis Banner" width="600"/>
+  <img src="https://github.com/TheSharmaDev/Web-Session-Analysis/raw/main/project1.png" width="600"/>
 </p>
 
 ---
